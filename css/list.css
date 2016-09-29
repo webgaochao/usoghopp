@@ -1,0 +1,75 @@
+ @charset "utf-8";
+/* CSS Document */
+
+
+/*banner*/
+
+.banner_l {height: 340px;position: relative;overflow: hidden;}
+.banner_l .banner_T {height: 340px;position: relative;}
+.banner_l .banner {width: 1920px;height: 340px;margin: 0 auto;position: absolute;top: 0;left: -460px; overflow: hidden;}
+
+/*mrtj*/
+
+.mrtj-con {margin-top: 15px;height: 370px;overflow: hidden;}
+.mrtj-con ul li {float: left;margin-right: 17px;width: 238px;}
+.mrtj-con ul .mrtj-li {margin-right: 0;}
+.mrtj-con img {display: inline-block;}
+
+/*today_sx*/
+
+.colunm_tit {padding-top: 40px;height: 20px;line-height: 20px;margin-bottom: 23px;border-bottom: 2px solid #333;position: relative;}
+.colunm_tit h1 {height: 55px;width: 250px;position: absolute;top: 50%;left: 50%;margin-left: -125px;}
+.sx_con {overflow: hidden;}
+
+.sx_ul li {width: 490px;padding: 1px;float: left;margin-right: 17px;margin-top: 20px;background: #fff;border: 1px solid #F2F2F2;overflow: hidden;}
+.sx_img {position: relative;width: 490px;height: 234px;overflow: hidden;}
+.sx_img img {width: 490px;height: 234px;display: block;}
+
+.sx_info {height: 42px;line-height: 42px;padding-left: 10px;font-size: 14px;color: #333;}
+.sx_tit {display: block;overflow: hidden;height: 42px;line-height: 42px;width: 280px;float: left;}
+.sx_tit a {font-size: 15px;}
+.sx_time {height: 18px;line-height: 18px;float: right;font-size: 12px;color: #666;background: url(../img/list/video.png) no-repeat;background-position: 0 -76px;width: 106px;padding-left: 15px;margin-top: 10px;margin-right: 10px;}
+
+.sx_ul .sx_li {margin-right: 0;}
+
+.sx_ul li:hover {border: 1px solid red;}
+
+
+/*index_json*/
+
+.index_json {padding-bottom: 30px;overflow: hidden;}
+.index_json ul {width: 1000px; margin: 0 auto;}
+.index_json ul li { float: left;height: 460px;width: 318px; margin-right: 20px;margin-top: 20px;overflow: hidden;border: 1px solid rgb(221, 221, 221);}
+.three_box {padding: 10px;background-color: rgb(255, 255, 255);position: relative;}
+.three_img_box {position: relative;width: 298px;height: 298px;overflow: hidden;z-index: 2;}
+.three_img_box img {width: 298px;height: 298px;}
+.three_box_tit {margin-top: 18px;height: 20px;line-height: 20px;overflow: hidden;padding: 0px 10px;}
+.three_box_tit .img_tit {font-size: 16px;display: block;overflow: hidden;}
+.three_subtit {color: rgb(247, 8, 0);margin-top: 5px;overflow: hidden;height: 16px;line-height: 16px;font-size: 12px;padding: 0px 10px;}
+.three_yen {margin-top: 21px;height: 26px;padding: 0px 10px 3px;}
+.three_price {font-size: 26px;color: rgb(34, 34, 34);font-family: arial;margin-right: 10px;}
+.three_price i {font-size: 20px;margin-right: 5px;}
+.sale_price {text-decoration: line-through;color: rgb(153, 153, 153);font-size: 14px;margin-top: 5px;position: relative;}
+.i_pos_abs {position: absolute;top: -19px;left: 0px;width: 205px;z-index: 2;}
+.i_tag {width: 24px;height: 15px;line-height: 15px;text-align: center;color: rgb(255, 255, 255);font-size: 12px;font-family: "微软雅黑";border-radius: 10px;padding: 0px 5px;margin-right: 5px;display: inline-block;}
+.i_pos_abs .i_by {background-color: rgb(255, 49, 117);}
+.line_price {text-decoration: line-through;margin-top: 2px;display: block;}
+.sale_price i {font-size: 14px;font-family: arial;}
+.purchased {color: rgb(102, 102, 102);margin-top: 9px;}
+.purchased i {color: rgb(247, 8, 0);}
+
+.tax_box_bt {height: 32px;line-height: 32px;background-color: rgb(248, 248, 248);color: rgb(102, 102, 102);font-size: 12px;border-top: 1px solid rgb(238, 238, 238);padding: 0px 20px;}
+.img_box_tit {display: block;width: 275px;text-align: left;height: 26px;line-height: 26px;color: rgb(255, 255, 255);position: absolute;bottom: 0px;left: 0px;background: rgba(0, 0, 0, 0.6) none repeat scroll 0% 0%;border-left: 3px solid rgb(57, 201, 218);padding: 0px 10px;overflow: hidden;z-index: 3;}
+.i_pos_abs .i_zj { background-color: rgb(255, 80, 74);margin-bottom: -3px;}
+
+.index_json ul li:hover {border: 1px solid red;}
+
+.country-name img {float: left;width: 30px;height: 20px;margin: 6px 5px 0px 0px;display: inline;overflow: hidden;}
+
+.time_rt {height: 32px;width: 92px;padding-left: 18px;background: url(../img/index/i_time.png) no-repeat left center;}
+
+
+
+
+
+

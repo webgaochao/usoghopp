@@ -1,0 +1,41 @@
+ @charset "utf-8";
+/* CSS Document */
+
+/*regsiter*/
+.regsiter {width: 964px;margin: 0 auto; font: 12px "宋体";position: relative;}
+.regnav { height: 42px; margin-top: 40px; }
+.regnav ul li {float: left; margin-right: 2px; width: 225px; height: 42px;line-height:42px;font-size: 14px;background:url(../img/register/welreg_01.gif) no-repeat 0px -102px; cursor: pointer;  color: #797979; font-weight: 600; text-align: center;}
+.regnav ul li.on {background:url(../img/register/welreg_01.gif) no-repeat 0px -58px; color: #fff;}
+.regnav ul li span.icon3 {background:url(../img/register/welreg_01.gif) no-repeat -1px -304px; padding-left: 18px;}
+.regnav ul li span.icon4 {background:url(../img/register/welreg_01.gif) no-repeat 0px -234px; padding-left: 20px;}
+.regnav ul li span.icon1 {background: url(../img/register/welreg_01.gif) 0 -212px no-repeat;height: 16px;padding-left: 20px;}
+.regnav ul li span.icon6 {background: url(../img/register/welreg_01.gif) 0 -286px no-repeat; padding-left: 18px;}
+.item { height: 52px; }
+#itemh { height: 44px; }
+#itemh2 { height: 40px; }
+#itemh3 { height: 117px; }
+.item-ifo { position: relative; z-index: 1; }
+.item-ifo em { font: 13px "微软雅黑"; color: #eb0007; }
+.regk { width: 314px; height: 25px; line-height: 25px; padding: 5px 25px 5px 10px; border: 1px solid #a2a2a2; }
+.regk1 { width: 314px; height: 25px; line-height: 25px; padding: 5px 25px 5px 10px; border: 1px solid #a2a2a2; }
+.item span { display: block; text-align: right; width: 187px; padding-right: 15px; height: 37px; line-height: 37px; color: #666;}
+.yhm_text1 { font: 15px/25px Arial; color: #222; width: 102px; padding: 5px 10px; height: 25px; border: 1px solid #a2a2a2; }
+.ymasage { width: 116px; height: 26px; border: medium none; background: url(../img/register/welreg_01.gif) no-repeat 0px -146px; cursor: pointer; margin: 6px 0px 0px 10px; display: block; line-height: 26px; text-align: center; color: #858585; }
+#checkcode1 {width: 40px;height: 20px;background: #CCCCCC;margin: 7px 3px 0 3px;}
+.yimg { line-height: 35px; }
+.yimg a { color: #0089cf; }
+.yimg img { margin: 3px 5px 0px; }
+.cg { color: #0089cf; }
+.checkx { display: block; height: 13px; margin-right: 4px; }
+.registsubmit { width: 126px; height: 33px; border: medium none; background: url(../img/register/welreg_01.gif) no-repeat 0px -175px; margin-bottom: 40px; cursor: pointer; }
+.land_con { border: 2px solid #ff8400; width: 964px;padding-top: 45px;margin-bottom: 50px;}
+.msg { position: absolute; top: 5px; left: -145px;}
+
+.land_ico, .land_ico4 , .land_ico6 , .land_ico7 { width: 16px; height: 16px; background: url(../img/register/welland.gif) no-repeat  0px -229px; }
+.land_ico2, .land_ico3, .land_ico9, .land_ico10 { width: 16px; height: 19px; background: url(../img/register/welland.gif) no-repeat  0px -251px; }
+.i-name { position: absolute; top: 8px; right: 9px; z-index: 10; }
+
+.ztips { width: 270px;height: 35px;line-height: 35px;padding-left: 9px;background-color: #f6f6f6;border: 1px solid #e9e9e9;color: #555;position: absolute;left: 353px;top: 0;}
+.etips {background-color: #fff3f3;border: 1px solid #ffadb0;color: #eb0007;width: 270px;height: 35px;line-height: 35px;padding-left: 9px;position: absolute;left: 353px;top: 0;}
+.dui {width: 16px;height: 15px;background: url(../img/register/welland.gif) 0 -275px no-repeat;margin-top: 5px;}
+

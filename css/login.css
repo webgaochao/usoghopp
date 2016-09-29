@@ -1,0 +1,41 @@
+ @charset "utf-8";
+/* CSS Document */
+
+/*header*/
+#header .header_login strong {color: red;display: inline-block;margin-top: 10px;}
+#header .header_logo_img .reglogo {width: 168px;height: 57px;background: url(../img/register/welland.gif) no-repeat 0 -60px;}
+/*land_conn*/
+
+.l_loge {width: 124px;height: 235px;background: url(../img/login/logewm.gif) no-repeat;position: absolute;top: 10px;left: -150px;}
+.tips {height: 22px;width: 340px;color: #eb0007;padding-left: 10px;line-height: 22px;border: 1px solid #ffadb0;background-color: #fff3f3;position: absolute;z-index: 999;left: 0;top: 37px;*top: 38px;}
+.tips1 {height: 22px;width: 112px;color: #eb0007;padding-left: 10px;line-height: 22px;border: 1px solid #ffadb0;background-color: #fff3f3;position: absolute;z-index: 999;left: 0;top: 37px;*top: 38px;}
+.land_con .dui {width: 16px;height: 15px;background: url(../img/login/welland.gif) 0 -275px no-repeat;margin-top: 5px;}
+.land_con .yzm {width: 60px;height: 30px;background: #CCCCCC;margin: 3px 13px 0 13px;text-align: center;}
+
+.land_con {position: relative; border: 2px solid #ff8400;width: 964px ;height: 374px; margin-top: 35px;margin-bottom: 65px;font-size: 12px;}
+.land_con_l { width: 532px; padding-left: 133px; color: #666; padding-top: 62px; }
+.land_con_r { width: 217px; background-color: #fff6ec; height: 316px; padding-left: 82px; padding-top: 58px; }
+.land_item { width: 351px; height: 65px; }
+.land_item span { display: block; height: 12px; padding-bottom: 7px; }
+.item-ifo { position: relative; z-index: 1; }
+.yhm_text { font: 13px/25px Arial; color: #222; width: 315px; padding: 5px 25px 5px 10px; height: 25px; border: 1px solid #a2a2a2; }
+.i-name { position: absolute; top: 8px; right: 9px; z-index: 10; }
+.land_ico, .land_ico4, .land_ico6, .land_ico7 { width: 16px; height: 16px; background: transparent url(../img/login/welland.gif) no-repeat scroll 0px -229px; }
+.land_ico2, .land_ico3, .land_ico5, .land_ico9, .land_ico10 { width: 16px; height: 19px; background: transparent url(../img/login/welland.gif) no-repeat scroll 0px -251px; }
+.land_item2 { width: 351px; height: 31px; }
+.mjy { height: 13px; line-height: 13px; display: block; margin-left: 6px; }
+.checkbox { display: block; width: 13px; height: 13px; }
+.wjma a { color: #0089cf; }
+.wjma a:hover, .land_item3 a:hover, .yimg a:hover { text-decoration: underline; }
+.yhm_text1 { font: 15px/25px Arial; color: #222; width: 102px; padding: 5px 10px; height: 25px; border: 1px solid #a2a2a2; }
+.yimg a { color: #0089cf; }
+.yimg { line-height: 35px; }
+.yimg img { margin: 3px 5px 0px; }
+.login-btn { height: 37px; margin-top: 10px; }
+.btn-img {width: 351px; height: 37px; background: transparent url(../img/login/welland.gif) no-repeat scroll 0px -117px; border: medium none; cursor: pointer; }
+.land_item3 { width: 219px; height: 57px; }
+.land_item3 a, .land_item3 span { display: block; }
+.land_item3 a { width: 142px; height: 32px; background: transparent url(../img/login/welland.gif) no-repeat scroll 0px -155px; line-height: 32px; text-align: center; color: #ff6000; margin-top: 10px; }
+.mg42 { margin-top: 42px; }
+.land_item3 span { font: 14px "微软雅黑"; color: rgb(85, 85, 85); }
+.EWM { position: absolute; top: 152px; left: 50%; margin: 0px 0px 0px -628px; }
